@@ -16,8 +16,6 @@
 Feel free to connect or collaborate!  
 📧 [rebanto.dev@gmail.com](mailto:rebanto.dev@gmail.com)  
 
----
-
 <!---
 rebanto/rebanto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
