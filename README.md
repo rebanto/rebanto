@@ -10,7 +10,7 @@
 - 🧠 Experimenting with ML models (NLP, vision, generative)
 
 ## 🛠️ Tools & Tech I Use
-`Python` · `JavaScript` · `React / React Native` · `TensorFlow` · `Flask` · `Supabase` · `Express.js` · `HTML/CSS` · `Blender` · `Unity`
+`Python` · `JavaScript` · `React / React Native` · `HTML/CSS` · `Tailwind CSS` · `TensorFlow` · `Flask` · `Supabase` · `Express.js` · `HTML/CSS` · `Blender` · `Unity`
 
 ## 📫 Reach me:
 Feel free to connect or collaborate!  
