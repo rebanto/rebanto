@@ -10,7 +10,7 @@
 - 🧠 Experimenting with ML models (NLP, vision, generative)
 
 ## 🛠️ Tools & Tech I Use
-`Python` · `JavaScript` · `React / React Native` · `HTML/CSS` · `Tailwind CSS` · `TensorFlow` · `Flask` · `Supabase` · `Express.js` · `HTML/CSS` · `Blender` · `Unity`
+`Python` · `JavaScript` · `React / React Native` · `HTML/CSS` · `Tailwind CSS` · `TensorFlow` · `Flask` · `Supabase` · `Express.js` · `Blender` · `Unity`
 
 <!---
 rebanto/rebanto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
