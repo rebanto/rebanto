@@ -22,6 +22,18 @@
 
 ---
 
+## 🌟 Feature Projects
+
+### 🤖 **Waypoint: Finding Your Way at IA**  
+*Building an intelligent chatbot for FCS Innovation Academy's students, teachers, and parents.*
+
+- **Description**: Waypoint is an AI-powered chatbot developed for the Innovation Academy, designed to answer student and faculty questions related to school topics like schedules, courses, and events. It integrates Resource Augmented Generation (RAG) using local documents for real-time information.  
+- **Tech**: React, Express.js, FAISS, Mistral 7B, SentenceTransformers, Langchain, Python, TypeScript
+- **Challenges**: Ensuring that the AI provides accurate and contextually relevant answers.  
+- **Link**: [View Project](https://github.com/phoenix-tech-solutions/waypoint)
+
+---
+
 ## 🧰 My Superpowered Stack
 
 <p align="center">
@@ -60,19 +72,10 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rebanto&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebanto&layout=compact&theme=radical&hide_border=true" height="180px"/>
-</p>
-
----
-
 ## 🌐 Let's Connect & Collab
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/rebanto](https://www.linkedin.com/in/rebanto-nath/)" target="_blank">
+  <a href="https://www.linkedin.com/in/rebanto-nath/" target="_blank">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
