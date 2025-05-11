@@ -28,7 +28,7 @@
 *Building an intelligent chatbot for FCS Innovation Academy's students, teachers, and parents.*
 
 - **Description**: Waypoint is an AI-powered chatbot developed for the Innovation Academy, designed to answer student and faculty questions related to school topics like schedules, courses, and events. It integrates Resource Augmented Generation (RAG) using local documents for real-time information.  
-- **Tech**: React, Express.js, FAISS, Mistral 7B, SentenceTransformers, Langchain, Python, TypeScript
+- **Tech**: React, Express.js, Python, TypeScript, FAISS, Langchain, Mistral Embeddings, Gemini 2.0 Flash.
 - **Challenges**: Ensuring that the AI provides accurate and contextually relevant answers.  
 - **Link**: [View Project](https://github.com/phoenix-tech-solutions/waypoint)
 
