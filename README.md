@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">🚀 Rebanto | Builder of the Future</h1>
+<h1 align="center">🚀 Rebanto | Exploring the Future with Code</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=High+school+student+building+the+future+with+code.;AI+%E2%9A%96+Web+%E2%9A%96+Design+%E2%9A%96+Passion-driven+projects" alt="Typing SVG" />
@@ -18,7 +18,7 @@
 - 🤖 **AI-first apps** using LLMs, computer vision & NLP  
 - 🎨 **Pixel-perfect UIs** with Tailwind, React & Framer Motion  
 - ⚙️ **Scalable APIs** with Flask, Express & Supabase  
-- 🧪 **Cutting-edge experiments** in generative AI and neural networks  
+- 🧪 **Interesting experiments** in generative AI and neural networks  
 
 ---
 
@@ -34,7 +34,7 @@
 
 ---
 
-## 🧰 My Superpowered Stack
+## 🧰 My Toolbox
 
 <p align="center">
 
