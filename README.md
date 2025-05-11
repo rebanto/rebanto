@@ -22,7 +22,7 @@
 
 ---
 
-## 🌟 Feature Projects
+## 🌟 Featured Projects
 
 ### 🤖 **Waypoint: Finding Your Way at IA**  
 *Building an intelligent chatbot for FCS Innovation Academy's students, teachers, and parents.*
