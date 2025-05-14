@@ -13,15 +13,6 @@
 
 ---
 
-## 🚧 Current Missions
-
-- 🤖 **AI-first apps** using LLMs, computer vision & NLP  
-- 🎨 **Pixel-perfect UIs** with Tailwind, React & Framer Motion  
-- ⚙️ **Scalable APIs** with Flask, Express & Supabase  
-- 🧪 **Interesting experiments** in generative AI and neural networks  
-
----
-
 ## 🌟 Featured Projects
 
 ### 🤖 **Waypoint: Finding Your Way at IA**  
@@ -38,31 +29,28 @@
 
 <p align="center">
 
-<!-- Languages -->
 <img src="https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-<!-- Frameworks -->
 <br/>
 <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/-React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 
-<!-- AI/ML -->
 <br/>
 <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Gemini-0F9D58?style=for-the-badge&logo=google-gemini&logoColor=white"/>
 <img src="https://img.shields.io/badge/-HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/-LangChain-3498DB?style=for-the-badge&logo=langchain&logoColor=white"/>
 
-<!-- Creative & 3D -->
 <br/>
 <img src="https://img.shields.io/badge/-Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
@@ -72,14 +60,9 @@
 
 ---
 
-## 🌐 Let's Connect & Collab
-
+<p align="center"><i>“Code is the closest thing we have to magic.”</i><br/>✨ Let’s build something legendary.</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/rebanto-nath/" target="_blank">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
----
-
-<p align="center"><i>“Code is the closest thing we have to magic.”</i><br/>✨ Let’s build something legendary.</p>
