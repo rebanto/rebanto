@@ -6,7 +6,6 @@
 </p>
 <!-- About -->
 <p align="center">
-  <strong>💡 Futurist at heart. Engineer by craft. Creator by passion.</strong><br>
   I fuse <code>AI/ML</code>, <code>full-stack dev</code>, and <code>creative tech</code> into futuristic products that <em>solve real problems</em>.<br>
   🎯 Building. Learning. Shipping. Repeat.  
 </p>
