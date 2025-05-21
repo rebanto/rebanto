@@ -14,7 +14,7 @@
 
 ## 🌟 Featured Project
 
-### 🤖 **Waypoint: Finding Your Way at IA**  
+### 🤖 **Waypoint: Find Your Way at IA**  
 *Building an intelligent chatbot for FCS Innovation Academy's students, teachers, and parents.*
 
 - **Description**: Waypoint is an AI-powered chatbot developed for FCS Innovation Academy, designed to answer student and faculty questions related to school topics like schedules, courses, and events. It integrates Resource Augmented Generation (RAG) using local documents for real-time information.  
