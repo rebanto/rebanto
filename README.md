@@ -1,9 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">🚀 Rebanto | Exploring the Future with Code</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=High+school+student+building+the+future+with+code.;AI+%E2%9A%96+Web+%E2%9A%96+Design+%E2%9A%96+Passion-driven+projects" alt="Typing SVG" />
-</p>
+<h1 align="center">Rebanto | Exploring the Future with Code</h1>
 <!-- About -->
 <p align="center">
   I fuse <code>AI/ML</code>, <code>full-stack dev</code>, and <code>creative tech</code> into futuristic products that <em>solve real problems</em>.<br>
@@ -14,7 +10,7 @@
 
 ## 🌟 Featured Project
 
-### 🤖 **Waypoint: Find Your Way at IA**  
+### **Waypoint: Find Your Way at IA**  
 *Building an intelligent chatbot for FCS Innovation Academy's students, teachers, and parents.*
 
 - **Description**: Waypoint is an AI-powered chatbot developed for FCS Innovation Academy, designed to answer student and faculty questions related to school topics like schedules, courses, and events. It integrates Resource Augmented Generation (RAG) using local documents for real-time information.  
@@ -58,7 +54,7 @@
 
 ---
 
-<p align="center"><i>“Code is the closest thing we have to magic.”</i><br/>✨ Let’s build something legendary.</p>
+<p align="center"><i>“Code is the closest thing we have to magic.”</i><br/>Let’s build something legendary. ✨</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/rebanto-nath/" target="_blank">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
