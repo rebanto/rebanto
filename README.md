@@ -1,6 +1,6 @@
 # rebanto
 
-`ai/ml` · `full-stack` · `systems`
+`ai/ml` · `full-stack`
 
 **featured:**  
 [waypoint](https://github.com/phoenix-tech-solutions/waypoint) — an AI chatbot for students that answers real questions with real context.  
