@@ -4,7 +4,7 @@
 
 **featured:**  
 [waypoint](https://github.com/phoenix-tech-solutions/waypoint) - an AI chatbot for students that answers real questions with real context.  
-Alpha/Demo released, full rebuild in progress.
+Alpha/Demo released, full rebuild in progress (in collab with local highschool).
 
 **stack:**  
 python · typescript · react · flask · supabase · pytorch · c++  
