@@ -12,5 +12,5 @@ python · typescript · react · flask · supabase · pytorch · c++
 
 **working on:**  
 ai research  
-shipping weird and occasionally useful AI projects  
+working on weird and occasionally useful AI projects  
 building applications for non-profits with [Phoenix Tech Solutions](https://github.com/phoenix-tech-solutions)
