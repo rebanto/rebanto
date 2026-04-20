@@ -1,4 +1,4 @@
-# rebanto n
+# rebanto
 
 `ai/ml` · `full-stack`
 
