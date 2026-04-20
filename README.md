@@ -1,4 +1,4 @@
-# rebanto `/rɛˈbæn.toʊ/`
+# rebanto `/rɛˈbɑːn.toʊ/`
 
 `ai/ml` · `full-stack`
 
